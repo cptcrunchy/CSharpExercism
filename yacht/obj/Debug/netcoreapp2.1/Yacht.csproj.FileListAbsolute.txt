@@ -1,0 +1,14 @@
+C:\Users\JGutierrez\Exercism\csharp\yacht\obj\Debug\netcoreapp2.1\Yacht.csprojAssemblyReference.cache
+C:\Users\JGutierrez\Exercism\csharp\yacht\obj\Debug\netcoreapp2.1\Yacht.csproj.CoreCompileInputs.cache
+C:\Users\JGutierrez\Exercism\csharp\yacht\obj\Debug\netcoreapp2.1\Yacht.AssemblyInfoInputs.cache
+C:\Users\JGutierrez\Exercism\csharp\yacht\obj\Debug\netcoreapp2.1\Yacht.AssemblyInfo.cs
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\Yacht.deps.json
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\Yacht.runtimeconfig.json
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\Yacht.runtimeconfig.dev.json
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\Yacht.dll
+C:\Users\JGutierrez\Exercism\csharp\yacht\bin\Debug\netcoreapp2.1\Yacht.pdb
+C:\Users\JGutierrez\Exercism\csharp\yacht\obj\Debug\netcoreapp2.1\Yacht.dll
+C:\Users\JGutierrez\Exercism\csharp\yacht\obj\Debug\netcoreapp2.1\Yacht.pdb

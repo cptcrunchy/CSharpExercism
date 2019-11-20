@@ -1,0 +1,13 @@
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\obj\Debug\netcoreapp2.1\PerfectNumbers.csprojAssemblyReference.cache
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\obj\Debug\netcoreapp2.1\PerfectNumbers.AssemblyInfoInputs.cache
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\obj\Debug\netcoreapp2.1\PerfectNumbers.AssemblyInfo.cs
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\PerfectNumbers.deps.json
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\PerfectNumbers.runtimeconfig.json
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\PerfectNumbers.runtimeconfig.dev.json
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\PerfectNumbers.dll
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\bin\Debug\netcoreapp2.1\PerfectNumbers.pdb
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\obj\Debug\netcoreapp2.1\PerfectNumbers.dll
+C:\Users\JGutierrez\Exercism\csharp\perfect-numbers\obj\Debug\netcoreapp2.1\PerfectNumbers.pdb

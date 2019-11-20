@@ -1,0 +1,15 @@
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.deps.json
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.runtimeconfig.json
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.runtimeconfig.dev.json
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.dll
+C:\Users\JGutierrez\Exercism\csharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.pdb
+C:\Users\JGutierrez\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.csprojAssemblyReference.cache
+C:\Users\JGutierrez\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.AssemblyInfoInputs.cache
+C:\Users\JGutierrez\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.AssemblyInfo.cs
+C:\Users\JGutierrez\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.dll
+C:\Users\JGutierrez\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.pdb

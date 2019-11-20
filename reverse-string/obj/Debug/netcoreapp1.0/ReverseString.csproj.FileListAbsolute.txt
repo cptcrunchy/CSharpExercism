@@ -1,0 +1,14 @@
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\obj\Debug\netcoreapp1.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\obj\Debug\netcoreapp1.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\obj\Debug\netcoreapp1.0\ReverseString.AssemblyInfo.cs
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\ReverseString.deps.json
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\ReverseString.runtimeconfig.json
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\ReverseString.runtimeconfig.dev.json
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\ReverseString.dll
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\bin\Debug\netcoreapp1.0\ReverseString.pdb
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\obj\Debug\netcoreapp1.0\ReverseString.dll
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\obj\Debug\netcoreapp1.0\ReverseString.pdb
+C:\Users\JGutierrez\Exercism\csharp\reverse-string\obj\Debug\netcoreapp1.0\ReverseString.csprojAssemblyReference.cache

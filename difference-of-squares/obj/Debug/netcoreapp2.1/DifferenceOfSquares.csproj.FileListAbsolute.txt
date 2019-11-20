@@ -1,0 +1,15 @@
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.deps.json
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.runtimeconfig.json
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.runtimeconfig.dev.json
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.dll
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\bin\Debug\netcoreapp2.1\DifferenceOfSquares.pdb
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.csprojAssemblyReference.cache
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.AssemblyInfoInputs.cache
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.AssemblyInfo.cs
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.dll
+C:\Users\JGutierrez\Exercism\csharp\difference-of-squares\obj\Debug\netcoreapp2.1\DifferenceOfSquares.pdb

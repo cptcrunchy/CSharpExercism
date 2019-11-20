@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JGutierrez\\Exercism\\csharp\\reverse-string\\ReverseString.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JGutierrez\\Exercism\\csharp\\reverse-string\\ReverseString.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JGutierrez\\Exercism\\csharp\\reverse-string\\ReverseString.csproj",
+        "projectName": "ReverseString",
+        "projectPath": "C:\\Users\\JGutierrez\\Exercism\\csharp\\reverse-string\\ReverseString.csproj",
+        "packagesPath": "C:\\Users\\JGutierrez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JGutierrez\\Exercism\\csharp\\reverse-string\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JGutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
